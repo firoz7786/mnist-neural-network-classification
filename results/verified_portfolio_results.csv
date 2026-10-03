@@ -1,0 +1,8 @@
+﻿model,test_accuracy,test_loss
+CNN + Adam,0.9914,0.037601
+CNN Improved,0.9909,0.034969
+CNN + SGD (lr=0.01),0.9883,0.038391
+CNN + SGD (lr=0.005),0.9868,0.039009
+CNN Baseline,0.9854,0.051987
+MLP Improved,0.9763,0.109753
+MLP Baseline,0.9758,0.077898
